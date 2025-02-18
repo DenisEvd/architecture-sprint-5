@@ -332,5 +332,9 @@ $RECYCLE.BIN/
 Lib/
 Scripts/
 pyvenv.cfg
+.rasa
+actions
+models
+rasa_env
 
 # End of https://www.toptal.com/developers/gitignore/api/node,react,jetbrains+all,visualstudiocode,macos,windows
